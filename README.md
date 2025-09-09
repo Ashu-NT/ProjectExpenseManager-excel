@@ -180,7 +180,7 @@ Please avoid checking in real production data or passwords.
 
 ## License summary
 
-This project is published under the **MIT License**. See the full license text below in this document.
+This project is published under the **MIT License**.
 
 ---
 
